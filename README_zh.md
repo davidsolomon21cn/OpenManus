@@ -1,14 +1,17 @@
-[English](README.md) | 简体中文
+[English](README.md) | 中文
 
-<p align="left">
-    <a href="https://discord.gg/6dn7Sa3a"><img src="https://dcbadge.vercel.app/api/server/DYn29wFk9z?style=flat" alt="Discord Follow"></a>
-</p>
+[![GitHub stars](https://img.shields.io/github/stars/mannaandpoem/OpenManus?style=social)](https://github.com/gregpr07/browser-use/stargazers) &ensp;
+[![Twitter Follow](https://img.shields.io/twitter/follow/openmanus?style=social)](https://twitter.com/openmanus) &ensp;
+[![Discord Follow](https://dcbadge.vercel.app/api/server/https://discord.gg/6dn7Sa3a?style=flat)](https://discord.gg/6dn7Sa3a) &ensp;
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# OpenManus 🙋
+# 👋 OpenManus
 
 Manus 非常棒，但 OpenManus 无需邀请码即可实现任何创意 🛫！
 
-我们的团队成员 [@mannaandpoem](https://github.com/mannaandpoem) [@XiangJinyu](https://github.com/XiangJinyu) [@MoshiQAQ](https://github.com/MoshiQAQ) [@didiforgithub](https://github.com/didiforgithub) 和 [@Xinyu Zhang](https://x.com/xinyzng) 来自 [@MetaGPT](https://github.com/geekan/MetaGPT) 等组织，我们在 3 小时内完成了原型开发并持续迭代中！
+我们的团队成员 [@mannaandpoem](https://github.com/mannaandpoem) [@XiangJinyu](https://github.com/XiangJinyu) [@MoshiQAQ](https://github.com/MoshiQAQ) [@didiforgithub](https://github.com/didiforgithub) https://github.com/stellaHSR
+和 [@Xinyu Zhang](https://x.com/xinyzng) 来自 [@MetaGPT](https://github.com/geekan/MetaGPT) 等组织，我们在 3
+小时内完成了原型开发并持续迭代中！
 
 这是一个简洁的实现方案，欢迎任何建议、贡献和反馈！
 
@@ -136,7 +139,6 @@ python run_flow.py
 - [ ] 实现容器化部署，简化安装和使用流程
 - [ ] 丰富示例库，增加更多实用案例，包含成功和失败示例的分析
 - [ ] 前后端开发，提供用户体验
-- [ ] RAG增强，实现外部知识图谱检索与融合机制
 
 ## 交流群
 
